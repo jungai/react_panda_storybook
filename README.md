@@ -57,6 +57,12 @@
 
 ## Commands
 
+### Install all dependencies
+
+```bash
+npm install
+```
+
 ### Run development
 
 start a development server
